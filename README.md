@@ -44,6 +44,22 @@ El proyecto incluye un APK listo para instalación.
 
 ---
 
+## 📸 Capturas de pantalla
+
+### 🌿 Splash
+<img src="screenshots/splash.jpeg" width="300"/>
+
+### 📋 Lista
+<img src="screenshots/lista.jpeg" width="300"/>
+
+### 🔍 Detalle
+<img src="screenshots/detalle.jpeg" width="300"/>
+
+### 📩 Contacto
+<img src="screenshots/contacto.jpeg" width="300"/>
+
+
+
 ## 💜 Sobre mí
 
 Hola! 👋 Soy Nini
