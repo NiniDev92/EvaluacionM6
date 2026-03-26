@@ -47,7 +47,7 @@ El proyecto incluye un APK listo para instalación.
 ## 📸 Capturas de pantalla
 
 ### 🌿 Splash
-<img src="screenshots/splash.jpeg" width="300"/>
+<img src="screenshots/Splash.jpeg" width="300"/>
 
 ### 📋 Lista
 <img src="screenshots/lista.jpeg" width="300"/>
